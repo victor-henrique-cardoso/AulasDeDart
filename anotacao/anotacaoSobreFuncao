@@ -1,0 +1,24 @@
+---------- introdução ao capitulo função -----------
+vai ver como usar a função no contesto de orientação a objeto/dentro de class
+
+
+
+conceito de função: 
+ basicamente um bloco de código que pode ser
+ chamado várias vezes para executar uma tarefa específica.
+ Elas ajudam a organizar o código,
+ evitar repetição e deixar tudo mais modular.
+
+como o usuario pode digitar em dart:
+importa// import 'dart:io';
+
+ // print('Digite sua idade:');
+  // int idade = int.parse(stdin.readLineSync()!);
+ // pra numeros 
+
+ // print('Digite seu nome:');
+ // String? nome = stdin.readLineSync();
+ pra texto
+ 
+
+
