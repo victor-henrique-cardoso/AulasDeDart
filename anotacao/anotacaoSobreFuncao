@@ -27,3 +27,5 @@ pedir2numeroprasoma(){} // não tem necesidade de retorna algo
 int somar(int a, int b){
   // precisa retornar algo 
 }
+
+função dinamica:
