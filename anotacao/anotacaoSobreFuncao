@@ -20,5 +20,10 @@ importa// import 'dart:io';
  // String? nome = stdin.readLineSync();
  pra texto
  
+somaComprint(int a , int b){} // não tem necesidade de retorna algo 
+pedir2numeroprasoma(){} // não tem necesidade de retorna algo 
 
 
+int somar(int a, int b){
+  // precisa retornar algo 
+}
